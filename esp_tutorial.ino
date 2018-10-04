@@ -20,7 +20,9 @@ String header;
 String roomate1State = "in";
 
 // Assign output variables to GPIO pins
+// LED short leg goes to D1
 const int led1 = 5;
+// Button plugged into ground and D2
 const int button1 = 4;
 
 boolean pressed = false;
