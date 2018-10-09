@@ -1,6 +1,5 @@
 /*********
-  Rui Santos
-  Complete project details at http://randomnerdtutorials.com  
+  Based on code by Rui Santos  
 *********/
 
 // Load Wi-Fi library
